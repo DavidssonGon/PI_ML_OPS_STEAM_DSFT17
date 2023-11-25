@@ -4,3 +4,5 @@ user_reviews.csv
 user_reviews.gzip
 user_games.csv
 user_games.gzip
+PlayTimeGenre.csv
+PlayTimeGenre.gzip
