@@ -6,3 +6,7 @@ user_games.csv
 user_games.gzip
 PlayTimeGenre.csv
 PlayTimeGenre.gzip
+UserForGenre.csv
+UserForGenre.gzip
+UsersRecommend.csv
+UsersRecommend.gzip
