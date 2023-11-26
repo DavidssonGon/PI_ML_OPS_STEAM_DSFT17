@@ -10,3 +10,7 @@ UserForGenre.csv
 UserForGenre.gzip
 UsersRecommend.csv
 UsersRecommend.gzip
+UsersWorstDeveloper.csv
+UsersWorstDeveloper.gzip
+sentiment_analysis.csv
+sentiment_analysis.gzip
