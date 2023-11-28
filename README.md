@@ -50,6 +50,6 @@ Deployment de la API:
 - [API funcionando](https://consultas-db-steam.onrender.com/)
 
 Video:
-- Link(https://drive.google.com/file/d/1O0JXnJU83pY3ZnwriXfyqKwPVVlBg7di/view?usp=drive_link)
+- [Link](https://drive.google.com/file/d/1O0JXnJU83pY3ZnwriXfyqKwPVVlBg7di/view?usp=drive_link)
 
 ---
