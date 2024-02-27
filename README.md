@@ -1,7 +1,14 @@
 
 # PROYECTO INDIVIDUAL ML OPS 
 
-![imagen_portada](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/steam.png)
+![imagen_portada](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/Imagenes/steam.png)
+
+## Menú de Navegación
+
+- [Introducción](#introducción)
+- [Procesos](#procesos)
+- [Conclusión](#conclusión)
+- [Instancias del proyecto](#instancias-del-proyecto)
 
 ## Introducción 
 
@@ -39,10 +46,10 @@ Los procesos con respecto a los datos van cogiendo forma y aunque la manera como
 
 El proyecto se puede analizar en este orden: 
 
-- [ETL](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/ETL.ipynb)
-- [EDA](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/EDA.ipynb)
-- [ETL2](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/ETL2.ipynb)
-- [Funciones_consulta](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/Funciones_consulta.ipynb)
+- [ETL](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/ETL/ETL.ipynb)
+- [EDA](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/EDA/EDA.ipynb)
+- [ETL2](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/ETL/ETL2.ipynb)
+- [Funciones_consulta](https://github.com/DavidssonGon/PI_ML_OPS_STEAM_DSFT17/blob/main/Funciones de consulta/Funciones_consulta.ipynb)
 
 Deployment de la API:
 
